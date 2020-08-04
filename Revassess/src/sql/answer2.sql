@@ -1,0 +1,1 @@
+INSERT INTO app_user VALUES (404, 'TestUsername', 'TestPassword', 'TestFirstName', 'TestLastName', 4);

@@ -1,0 +1,1 @@
+SELECT * FROM app_user, study_set WHERE owner_id = 5 AND user_id = 5;
