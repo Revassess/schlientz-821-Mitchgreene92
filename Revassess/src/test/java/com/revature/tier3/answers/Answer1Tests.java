@@ -1,4 +1,4 @@
-package com.revature.tier3.answers;
+package test.java.com.revature.tier3.answers;
 
 import static com.revature.tier3.answers.PointsTests.addPoints;
 import static org.junit.Assert.assertTrue;
